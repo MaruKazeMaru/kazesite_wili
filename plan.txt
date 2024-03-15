@@ -1,0 +1,6 @@
+SRC_DIR=src
+# DST_DIR=
+
+RENDER *.html
+IGNORE *base.html
+LINKH img/*
