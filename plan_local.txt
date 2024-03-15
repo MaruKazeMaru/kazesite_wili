@@ -1,5 +1,5 @@
 SRC_DIR=src
-# DST_DIR=
+DST_DIR=out
 
 RENDER *.html
 IGNORE *base.html
